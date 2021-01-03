@@ -1,0 +1,23 @@
+{
+  "name": "bot-plont",
+  "version": "1.0.0",
+  "description": "Bot de discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rwtews/bot-plont.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rwtews/bot-plont/issues"
+  },
+  "homepage": "https://github.com/rwtews/bot-plont#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}

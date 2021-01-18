@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/rwtews/bot-plont#readme",
   "dependencies": {
-    "discord.js": "^12.5.1"
+    "discord.js": "^12.5.1",
+    "fs-extra": "^9.0.1"
   }
 }
